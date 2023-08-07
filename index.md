@@ -1,7 +1,5 @@
-# This content here is supposed to have/be at the '<h1>' header level.
+# Markdown Work and training, this is header level 1.
 
-###### Note that there was an h1 inside less than and greater than brackets above...  Yay for special characters.
+## now to add an image under header level 2.
 
-### and this is for header level 3
-
-###### A meaningful commit is entered here, so that we might commit.
+![Image of cat and rooster playing politics] (https://github.com/LeToCo-gene/codice-pipe-markdown/blob/main/Cat.jpg)
