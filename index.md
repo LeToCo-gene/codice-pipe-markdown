@@ -2,4 +2,4 @@
 
 ## now to add an image under header level 2.
 
-![Image of cat and rooster playing politics] (https://github.com/LeToCo-gene/codice-pipe-markdown/blob/main/Cat.jpg)
+![Image of cat and rooster playing politics] (https://raw.githubusercontent.com/LeToCo-gene/codice-pipe/main/Cat.jpg)
